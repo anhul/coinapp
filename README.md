@@ -1,2 +1,2 @@
-# taskerb
-Backend service of tasker
+# coinapp
+Backend service of the application to store list of coins
